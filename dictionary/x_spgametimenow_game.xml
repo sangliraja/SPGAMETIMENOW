@@ -3,7 +3,10 @@
     <element label="Game" max_length="40" name="x_spgametimenow_game" type="collection">
         <element label="GameDate" max_length="40" name="gamedate" type="glide_date_time"/>
         <element choice="1" display="true" label="Location" max_length="40" name="location" type="choice">
-            <choice/>
+            <choice>
+                <element label="Sport Court" value="sport court"/>
+                <element label="The Park" value="The Park"/>
+            </choice>
         </element>
     </element>
 </database>
