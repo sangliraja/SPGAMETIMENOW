@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_spgametimenow_game</description>
+        <name>x_spgametimenow_game</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-17 21:09:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6a6bed40a12312007f44c934cd5dcb1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_spgametimenow_game</sys_name>
+        <sys_package display_value="SPGAMETIMENOW" source="x_spgametimenow">52e9e940a12312007f44c934cd5dcbfc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SPGAMETIMENOW">52e9e940a12312007f44c934cd5dcbfc</sys_scope>
+        <sys_update_name>sys_security_acl_6a6bed40a12312007f44c934cd5dcb1c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-17 21:09:26</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
